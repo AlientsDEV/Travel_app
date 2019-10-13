@@ -1,4 +1,4 @@
- <font size="16">Flutter Travel app!</font> 
+ <font size="56">Flutter Travel app!</font> 
  
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
