@@ -1,6 +1,6 @@
- <font size="56">Flutter Travel app!</font> 
- 
-#Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
+**This is bold text**
+
+Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/56515652/66720014-79579a00-edf7-11e9-8fa7-e642d2b611f0.png" 
