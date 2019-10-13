@@ -1,4 +1,4 @@
-<span style="font-weight:bold">text</span>
+<strong>This text is strong</strong>
 
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
