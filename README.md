@@ -1,6 +1,5 @@
-<strong>This text is strong
-<font size="7"></font></strong>
-
+ <font size="16">Flutter Travel app!</font> 
+ 
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
 <p float="left">
