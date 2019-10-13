@@ -1,4 +1,4 @@
-      # **This is bold text**
+# **This is bold text**
 
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
