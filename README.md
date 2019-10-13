@@ -1,5 +1,5 @@
-<strong>This text is strong</strong>
-<font size="7"></font>
+<strong>This text is strong
+<font size="7"></font></strong>
 
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
