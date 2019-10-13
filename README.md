@@ -1,3 +1,5 @@
+<span class="bold">I'm Bold!</span>
+
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
 <p float="left">
