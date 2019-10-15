@@ -3,10 +3,10 @@
 Created a demo for Travel App in Flutter where you can see your favorite city with a description and some suggestion of an other cities.
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/56515652/66720014-79579a00-edf7-11e9-8fa7-e642d2b611f0.png" 
+  <img src="https://user-images.githubusercontent.com/56515652/66832908-1d0d8b00-ef5b-11e9-8205-847f334217be.PNG" 
        width=250 hspace="20"/> 
-  <img src="https://user-images.githubusercontent.com/56515652/66720034-a6a44800-edf7-11e9-8b81-001e48d65eff.png"
+  <img src="https://user-images.githubusercontent.com/56515652/66832909-1da62180-ef5b-11e9-8fbf-183ae4933e98.PNG"
        width=250 hspace="20"/> 
-  <img src="https://user-images.githubusercontent.com/56515652/66720036-aa37cf00-edf7-11e9-9310-2d51918c1743.png" 
+  <img src="https://user-images.githubusercontent.com/56515652/66832911-1da62180-ef5b-11e9-91d1-49d419b187f7.PNG" 
        width=250 hspace="10"/>
 </p>
